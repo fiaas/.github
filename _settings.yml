@@ -77,6 +77,10 @@ labels:
   - name: good first issue
     color: 0000cc
     description: Suitable for new contributers to tackle.
+    
+  - name: work in progress
+    color: 660000
+    description: Still working on it, not ready to merge
 
 
 # Milestones: define milestones for Issues and Pull Requests
