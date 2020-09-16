@@ -82,6 +82,9 @@ labels:
     color: 660000
     description: Still working on it, not ready to merge
 
+  - name: hacktoberfest
+    color: fbca04
+    description: Issue suitable for Hacktoberfest contributors (https://hacktoberfest.digitalocean.com/)
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
